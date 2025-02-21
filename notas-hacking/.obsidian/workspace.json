@@ -106,6 +106,20 @@
             }
           },
           {
+            "id": "a962d9cbd86b17ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/General Skills 3/CODEBOOK.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CODEBOOK"
+            }
+          },
+          {
             "id": "9cb2d13d187d92af",
             "type": "leaf",
             "state": {
@@ -134,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -278,37 +292,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25e9fc10a19920e8",
+  "active": "a962d9cbd86b17ee",
   "lastOpenFiles": [
-    "picoCTF/General Skills/06- Obedient Cat.md",
-    "picoCTF/General Skills/02 -Bases.md",
-    "picoCTF/General Skils 2/REPETITIONS.md",
-    "picoCTF/General Skils 2/MAGIKARP GROUND MISSION.md",
-    "picoCTF/General Skils 2/STATIC AINT´T ALWAYS NOISE.md",
-    "picoCTF/General Skils 2/STRINGS IT.md",
-    "picoCTF/General Skils 2/WAVE A FLAG.md",
+    "picoCTF/General Skills 3/SERPENTINE.md",
+    "picoCTF/General Skills 3/CODEBOOK.md",
+    "picoCTF/General Skills 3/SUPER SSH.md",
+    "picoCTF/General Skills 3/RUNME.PY.md",
+    "picoCTF/General Skills 3/PW CRACK 3.md",
+    "picoCTF/General Skills 3/PW CRACK 2.md",
     "picoCTF/General Skils 2/USELESS.md",
     "picoCTF/General Skils 2/TAB ,TAB, ATTACK.md",
+    "picoCTF/General Skils 2/STRINGS IT.md",
+    "picoCTF/General Skils 2/STATIC AINT´T ALWAYS NOISE.md",
+    "picoCTF/General Skils 2/REPETITIONS.md",
+    "picoCTF/General Skils 2/MAGIKARP GROUND MISSION.md",
     "picoCTF/General Skils 2/FIRST FIND.md",
-    "picoCTF/General Skils 2/01- BIG ZIP.md",
     "picoCTF/General Skils 2/Based.md",
-    "READNAME.md",
+    "picoCTF/General Skils 2/01- BIG ZIP.md",
+    "picoCTF/General Skills 3/CONVERTME.PY.md",
+    "picoCTF/General Skills 3/FIXME2. PY.md",
+    "picoCTF/General Skills 3/PW CRACK 1.md",
+    "Untitled.md",
     "Untitled 1.md",
+    "Untitled 2.md",
+    "picoCTF/General Skills 3/FIXME1.PY.md",
+    "READNAME.md",
+    "picoCTF/General Skills 3",
+    "Untitled",
+    "picoCTF/General Skills/06- Obedient Cat.md",
+    "picoCTF/General Skills/02 -Bases.md",
+    "picoCTF/General Skils 2/WAVE A FLAG.md",
     "picoCTF/General Skils 2",
     "picoCTF/General Skills/Untitled",
-    "picoCTF/General Skills/04  GLITCH CAT.md",
-    "picoCTF/General Skills/08 - Warmed Up.md",
-    "picoCTF/General Skills/09 - Whats a net cat.md",
-    "picoCTF/General Skills/10 - Plumbing.md",
-    "Untitled.md",
-    "10.md",
-    "picoCTF/General Skills/01-2WARM.md",
-    "picoCTF/General Skills/03 - FIRST GREP.md",
-    "picoCTF/General Skills/07 - NICE CAT.md",
-    "picoCTF/General Skills/05 - LETS WARM UP.md",
-    "First Grep.md",
     "Untitled 2",
-    "picoCTF/General Skills/0-3 Bases 1.md",
     "Untitled 1",
     "picoCTF/General Skills",
     "picoCTF"
