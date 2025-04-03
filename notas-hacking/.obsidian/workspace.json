@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/picoCTF Web 2/Scavenger Hunt.md",
+                "file": "picoCTF/picoCTF Web 3/MORE SQLI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scavenger Hunt"
+              "title": "MORE SQLI"
             }
           },
           {
@@ -179,26 +179,29 @@
   },
   "active": "f74d201fbab12733",
   "lastOpenFiles": [
-    "Pasted image 20250326225941.png",
-    "picoCTF/picoCTF Web 1/CLIENT SIDE AGAIN.md",
-    "Pasted image 20250326225231.png",
+    "picoCTF/picoCTF Web 3/JaWT Scratchpad.md",
+    "picoCTF/picoCTF Web 3/IRISH-NAME-REPO 1.md",
+    "Pasted image 20250402183350.png",
+    "Pasted image 20250402183200.png",
+    "Pasted image 20250402183111.png",
+    "Pasted image 20250402183050.png",
+    "Pasted image 20250402182704.png",
+    "Pasted image 20250402181815.png",
+    "Pasted image 20250402181805.png",
+    "Pasted image 20250402181756.png",
+    "Pasted image 20250402181617.png",
+    "Pasted image 20250402181606.png",
+    "picoCTF/picoCTF Web 3/MORE SQLI.md",
     "picoCTF/picoCTF Web 2/Scavenger Hunt.md",
-    "Pasted image 20250326225615.png",
-    "Pasted image 20250326225424.png",
-    "Pasted image 20250326224911.png",
+    "picoCTF/picoCTF Web 3",
+    "picoCTF/picoCTF Web 1/CLIENT SIDE AGAIN.md",
     "picoCTF/picoCTF Web 2/GET AHEAD.md",
     "picoCTF/picoCTF Web 2/COOKIES.md",
-    "Pasted image 20250326224252.png",
-    "Pasted image 20250326224245.png",
-    "Pasted image 20250326224217.png",
-    "Pasted image 20250326224213.png",
-    "Pasted image 20250326222642.png",
     "picoCTF/General Skills _Tarea 1/BINHEXA.md",
     "picoCTF/picoCTF Web 1/DONT-USE-CLIENT-SIDE.md",
     "picoCTF/hola/Untitled",
     "picoCTF/picoCTF Web 2",
     "picoCTF/picoCTF Web 1/INSP3CT0R.md",
-    "Pasted image 20250321213026.png",
     "picoCTF/picoCTF Web 1/LOGON.md",
     "picoCTF/picoCTF Web 1/PICOBROWSER.md",
     "picoCTF/picoCTF Web 1/WHERE ARE THE ROBOTS.md",
@@ -217,13 +220,9 @@
     "picoCTF/General Skills _Tarea 1/ASCII NUMBER.md",
     "picoCTF/General Skills _Tarea 1/COMMITMENT ISSUES.md",
     "picoCTF/General Skills _Tarea 1/COLLLABORATIVE DEVELOPMENT.md",
-    "picoCTF/General Skills _Tarea 1/BLAME GAME.md",
-    "picoCTF/General Skills 3/CODEBOOK.md",
     "picoCTF/General Skills _Tarea 1",
-    "picoCTF/General Skills 3/SERPENTINE.md",
     "picoCTF/General Skills 3",
     "Untitled",
-    "picoCTF/General Skils 2",
-    "picoCTF/General Skills/Untitled"
+    "picoCTF/General Skils 2"
   ]
 }
