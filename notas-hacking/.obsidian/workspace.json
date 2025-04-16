@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/picoCTF Forensic 2/WhitePages.md",
+                "file": "picoCTF/primer examen parcial parte 1/Specialer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WhitePages"
+              "title": "Specialer"
             }
           },
           {
@@ -208,24 +208,30 @@
   },
   "active": "bc9e0867aa39b33c",
   "lastOpenFiles": [
+    "picoCTF/primer examen parcial parte 1/flag_shop.md",
+    "picoCTF/primer examen parcial parte 1/SansAlpha.md",
+    "picoCTF/primer examen parcial parte 1/Specialer.md",
+    "picoCTF/primer examen parcial parte 1/dont-you-love-banners.md",
+    "Pasted image 20250416084216.png",
+    "Pasted image 20250416082424.png",
+    "picoCTF/picoCTF Forensic 2/WhitePages.md",
+    "picoCTF/primer examen parcial parte 1",
+    "Untitled 1",
+    "Untitled",
     "Pasted image 20250415210446.png",
     "Pasted image 20250415210146.png",
     "picoCTF/picoCTF Forensic 2/c0rrupt.md",
     "picoCTF/picoCTF Forensic 2/like1000.md",
     "picoCTF/picoCTF Forensic 2/m00nwalk.md",
     "picoCTF/picoCTF Forensic 2/shark on wire 2.md",
-    "picoCTF/picoCTF Forensic 2/WhitePages.md",
     "Pasted image 20250415205007.png",
     "Pasted image 20250415201815.png",
     "Pasted image 20250415201636.png",
     "Pasted image 20250415181146.png",
     "Pasted image 20250415175157.png",
     "Pasted image 20250415174738.png",
-    "Pasted image 20250415174659.png",
-    "Pasted image 20250415174401.png",
     "picoCTF/picoCTF Web 4/Trickster.md",
     "picoCTF/picoCTF Forensic 2",
-    "Pasted image 20250415161134.png",
     "picoCTF/picoCTF Web 4/SOAP.md",
     "picoCTF/picoCTF Web 4/Most Cookies.md",
     "picoCTF/picoCTF Web 4/MatchTheRegex.md",
@@ -240,19 +246,13 @@
     "picoCTF/Tarea 2 - Retos web/Inspect HTML.md",
     "picoCTF/Tarea 2 - Retos web/Includes.md",
     "picoCTF/Tarea 2 - Retos web",
-    "Untitled",
     "picoCTF/picoCTF Forensic 1/What Lies Within.md",
     "picoCTF/picoCTF Web 4",
     "picoCTF/picoCTF Forensic 1/So meta.md",
     "picoCTF/picoCTF Forensic 1/shark on wire 1.md",
-    "picoCTF/picoCTF Forensic 1/Extensions.md",
-    "picoCTF/picoCTF Forensic 1/Glory of the Garden.md",
-    "Untitled.md",
     "picoCTF/picoCTF Forensic 1",
     "forensic 1",
-    "Untitled 1",
     "picoCTF/picoCTF Web 3",
-    "picoCTF/hola/Untitled",
-    "picoCTF/picoCTF Web 2"
+    "picoCTF/hola/Untitled"
   ]
 }
