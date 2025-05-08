@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/primer examen parte 2/Cookie Monster Secret Recipe.md",
+                "file": "picoCTF/pcioCTF Forensic - Parte 3/WebNet1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cookie Monster Secret Recipe"
+              "title": "WebNet1"
             }
           },
           {
@@ -208,13 +208,19 @@
   },
   "active": "bc9e0867aa39b33c",
   "lastOpenFiles": [
+    "picoCTF/pcioCTF Forensic - Parte 3/WebNet0.md",
+    "picoCTF/pcioCTF Forensic - Parte 3/WebNet1.md",
+    "picoCTF/pcioCTF Forensic - Parte 3/MacroHard WeakEdge.md",
+    "picoCTF/pcioCTF Forensic - Parte 3/tunn3l v1s10n.md",
+    "picoCTF/pcioCTF Forensic - Parte 3/Matryoshka doll.md",
+    "picoCTF/primer examen parte 2/Cookie Monster Secret Recipe.md",
+    "picoCTF/pcioCTF Forensic - Parte 3",
     "picoCTF/primer examen parte 2/Findme.md",
     "picoCTF/primer examen parte 2/head-dump.md",
     "picoCTF/primer examen parte 2/n0s4n1ty.md",
     "picoCTF/primer examen parte 2/WebSockFish.md",
     "picoCTF/primer examen parte 2/SSTI2.md",
     "picoCTF/primer examen parte 2/Borkmarklet.md",
-    "picoCTF/primer examen parte 2/Cookie Monster Secret Recipe.md",
     "picoCTF/primer examen parte 2/Java Code Analysis.md",
     "picoCTF/primer examen parte 2/SQL Direct.md",
     "picoCTF/primer examen parte 2/SSTI1.md",
@@ -238,21 +244,15 @@
     "Untitled",
     "Pasted image 20250415210446.png",
     "Pasted image 20250415210146.png",
-    "picoCTF/picoCTF Forensic 2/c0rrupt.md",
-    "picoCTF/picoCTF Forensic 2/like1000.md",
-    "picoCTF/picoCTF Forensic 2/m00nwalk.md",
-    "picoCTF/picoCTF Forensic 2/shark on wire 2.md",
     "Pasted image 20250415205007.png",
     "Pasted image 20250415201815.png",
     "Pasted image 20250415201636.png",
     "Pasted image 20250415181146.png",
     "Pasted image 20250415175157.png",
     "Pasted image 20250415174738.png",
-    "picoCTF/picoCTF Web 4/Trickster.md",
     "picoCTF/picoCTF Forensic 2",
     "picoCTF/Tarea 2 - Retos web",
     "picoCTF/picoCTF Web 4",
-    "picoCTF/picoCTF Forensic 1",
-    "forensic 1"
+    "picoCTF/picoCTF Forensic 1"
   ]
 }
